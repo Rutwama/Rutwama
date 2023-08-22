@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rutwama Kylie.
 - 👀 I’m interested in Frontend Development and UI/UX Design.
-- 🌱 I’m currently learning Web Development (HTML5&CSS, Javascript and ReactJs).
+- 🌱 I’m currently learning Web Development (HTML5&CSS, Javascript, ReactJs and Next.js 13).
 - 💞️ I’m looking to collaborate on Frontend or Fullstack Projects.
 - 📫 Contact me on my official email : rutwamanamugga@gmail.com
 
